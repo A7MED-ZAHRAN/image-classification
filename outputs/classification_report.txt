@@ -1,0 +1,15 @@
+Test accuracy: 0.8494
+Test loss: 0.3853
+
+              precision    recall  f1-score   support
+
+   buildings      0.938     0.806     0.867        93
+      forest      0.972     1.000     0.986       104
+     glacier      0.821     0.539     0.651       102
+    mountain      0.687     0.920     0.786       100
+         sea      0.928     0.891     0.909       101
+      street      0.811     0.945     0.873        91
+
+    accuracy                          0.849       591
+   macro avg      0.859     0.850     0.845       591
+weighted avg      0.860     0.849     0.845       591

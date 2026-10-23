@@ -1,0 +1,8 @@
+seg_train/
+seg_test/
+seg_pred/
+data/
+__pycache__/
+.ipynb_checkpoints/
+*.h5outputs/final_model.keras
+my_image.jpg
